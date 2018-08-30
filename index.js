@@ -24,10 +24,4 @@ function dec(n) {
   return n;
 }
 
-function makeInt(parseInt('n', 10) {
-}
-
-function preseveDecimal(n) {
-  parseFloat('n')
-  return n;
-}
+parseInt('n', 10);
